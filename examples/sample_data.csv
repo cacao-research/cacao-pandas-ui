@@ -1,0 +1,21 @@
+ID,Name,Age,Department,Salary,Join_Date,Performance_Score,Is_Active
+1,Alice Johnson,28,Engineering,85000,2022-03-15,4.2,True
+2,Bob Smith,35,Marketing,65000,2021-07-22,3.8,True
+3,Charlie Brown,42,Sales,72000,2020-11-08,4.5,True
+4,Diana Prince,31,HR,58000,2023-01-10,4.0,True
+5,Eve Wilson,29,Finance,70000,2022-09-05,3.9,True
+6,Frank Miller,38,Engineering,92000,2019-12-12,4.7,True
+7,Grace Lee,26,Marketing,55000,2023-04-18,3.6,True
+8,Henry Davis,45,Sales,78000,2018-06-30,4.1,True
+9,Ivy Chen,33,Engineering,88000,2021-02-14,4.3,True
+10,Jack White,39,HR,61000,2020-08-25,3.7,True
+11,Karen Green,30,Finance,69000,2022-05-20,4.4,True
+12,Liam Brown,27,Engineering,81000,2023-02-08,4.0,True
+13,Maya Patel,36,Marketing,63000,2021-10-15,3.8,True
+14,Noah Taylor,41,Sales,75000,2019-09-03,4.2,True
+15,Olivia Martin,34,HR,59000,2022-12-01,3.9,True
+16,Paul Anderson,37,Finance,73000,2020-07-17,4.1,True
+17,Quinn Roberts,32,Engineering,89000,2021-11-30,4.5,True
+18,Rachel Kim,25,Marketing,52000,2023-06-12,3.5,True
+19,Sam Wilson,43,Sales,76000,2018-04-08,4.3,True
+20,Tina Liu,29,Engineering,84000,2022-08-22,4.6,True

@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cacao-pandas-ui"
+version = "0.1.0"
+description = "A pandas DataFrame table UI viewer built on Cacao"
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT"
+authors = [ { name="Juan Denis", email="juan@vene.co" } ]
+dependencies = [
+  "cacao>=1.0.44",
+  "pandas>=1.0.0",
+]
+
+[project.scripts]
+cacao-pandas-ui = "cacao_pandas_ui.cli:main"
+
+[tool.setuptools]
+packages = ["cacao_pandas_ui"]
